@@ -1,0 +1,15 @@
+{
+    "name": "serious/tradeapi",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Serious\\Tradeapi\\": "src/"
+        }
+    },
+    "require": {
+        "php" : "^8.0",
+        "phpunit/phpunit": "9.5.21",
+        "guzzlehttp/guzzle": "^7.0",
+        "ext-curl": "*"
+    }
+}

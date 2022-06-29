@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"ServicesTest::testInfo":3},"times":{"Warning":0.003,"ServicesTest::testInfo":0.451,"ServicesTest::testAccount":0.392,"ServicesTest::testOrders":0.034,"ServicesTest::testOrderStatus":0.018,"ServicesTest::testOrderCreate":0.013,"ServicesTest::testMyOrders":0.033}}
